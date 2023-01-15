@@ -17,8 +17,9 @@ https://docs.google.com/document/d/1fMFwPBs53xzcrltEFOpEG4GWTaQ-5jvVLrNT6_hmC7I/
 ```
 ## Запуск web-приложения
 
-~~~docker
+docker
 docker-compose build --no-cache
 docker-compose up -d
-~~~
-Для проверки запуститите script.py   
+```
+Для проверки запуститите script.py
+```
