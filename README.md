@@ -19,4 +19,4 @@ https://docs.google.com/document/d/1fMFwPBs53xzcrltEFOpEG4GWTaQ-5jvVLrNT6_hmC7I/
 docker-compose build --no-cache
 docker-compose up -d
 ~~~
-Для проверки работоспособности запустить script_requests.py   
+Для проверки запуститите script.py   
