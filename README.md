@@ -15,11 +15,12 @@ https://docs.google.com/document/d/1fMFwPBs53xzcrltEFOpEG4GWTaQ-5jvVLrNT6_hmC7I/
 ```
 Имя наиболее подходящей данному списку полей формы, при отсутствии совпадений с известными формами произвести типизацию полей на лету и вернуть список полей с их типами.
 ```
-## Запуск web-приложения
-
+## Запуск web-приложения Linux(ubuntu)
+```
 docker
 docker-compose build --no-cache
 docker-compose up -d
+```
 ```
 Для проверки запуститите script.py
 ```
